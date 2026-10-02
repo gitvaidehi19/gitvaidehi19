@@ -51,7 +51,7 @@ If you do not change it, the streak and stats will not load!
 
 <p align="center">
   <!-- REPLACE THE URL BELOW WITH YOUR MEALMITRA PROJECT BANNER -->
-  <img src="" alt="MealMitra Banner Placeholder" width="100%" style="border-radius: 15px; border: 2px solid #FFb6c1;" />
+  <img src="Gemini_Generated_Image_7vi42o7vi42o7vi4.png" alt="MealMitra Banner Placeholder" width="100%" style="border-radius: 15px; border: 2px solid #FFb6c1;" />
 </p>
 
 <div align="center">
