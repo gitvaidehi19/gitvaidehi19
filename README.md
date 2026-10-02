@@ -1,14 +1,3 @@
-<!-- 
-=========================================================
-🎀 WELCOME TO YOUR CUTE & GIRLY PROFILE README! 🎀
-=========================================================
-⚠️ CRITICAL FOR YOUR GITHUB STREAK TO WORK:
-You MUST replace EVERY instance of "YOUR_GITHUB_USERNAME_HERE" 
-with your ACTUAL GitHub username (the one in your profile URL).
-If you do not change it, the streak and stats will not load!
-=========================================================
--->
-
 <div align="center">
   
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="350" alt="Cute Pink Aesthetic Coding Girl" style="border-radius: 20px; box-shadow: 0 0 20px #FF69B4; margin-bottom: 20px;"/>
