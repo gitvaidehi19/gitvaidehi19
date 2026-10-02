@@ -45,8 +45,8 @@
 
 <div align="center">
   <!-- REPLACE PLACEHOLDERS WITH ACTUAL LINKS -->
-  <a href="MEALMITRA_REPO_URL"><img src="https://img.shields.io/badge/Code-GitHub-FFb6c1?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Repo"/></a>
-  <a href="MEALMITRA_LIVE_URL"><img src="https://img.shields.io/badge/Live_Demo-Vercel-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+  <a href="https://github.com/manan112005/MealMitra.git"><img src="https://img.shields.io/badge/Code-GitHub-FFb6c1?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Repo"/></a>
+  <!-- <a href="MEALMITRA_LIVE_URL"><img src="https://img.shields.io/badge/Live_Demo-Vercel-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a> -->
 </div>
 <br>
 
@@ -213,11 +213,6 @@
 
 ## 📈 GitHub Statistics ✨
 
-<!-- 
-🚨 IMPORTANT: Replace YOUR_GITHUB_USERNAME_HERE with your exact GitHub Username! 🚨 
-If you do not change it, the streak and stats will not show your actual data.
--->
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gitvaidehi19&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&text_color=d8b4e2&icon_color=FFB6C1" alt="GitHub Stats" width="48%" />
   
@@ -245,17 +240,15 @@ If you do not change it, the streak and stats will not show your actual data.
 
 <div align="center">
 
-<!-- REPLACE THE HREF LINKS WITH YOUR ACTUAL PROFILES/EMAILS -->
-<a href="LINKEDIN_URL">
-  <img src="https://img./badge/LinkedIn-FFb6c1?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+<a href="www.linkedin.com/in/vaidehi-pandya-v13042005">
+  <img src="https://img.shields.io/badge/LinkedIn-FFb6c1?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
 </a>
-<a href="mailto:EMAIL_ADDRESS">
+<a href="mailto:vaidehi.work369@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="PORTFOLIO_URL">
+<!-- <a href="PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-FF85A2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-</a>
-
+</a> -->
 <br><br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRteG5xeHJwc3UyNDdpaDFudHBtZ25mMG85NnM2NmV4MDUwYmJ2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="120" style="border-radius:15px" alt="Cute Cat Waving Footer"/>
 <br>
