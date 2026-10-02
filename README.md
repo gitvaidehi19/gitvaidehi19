@@ -81,32 +81,38 @@ If you do not change it, the streak and stats will not load!
 
 <div align="center">
 
-**👤 CUSTOMER FLOW**
-<br>Register / Login with OTP ⬇️ 
-<br>Browse Homemade Meals ⬇️ 
-<br>Choose Chef ⬇️ 
-<br>Select Meal / Subscription ⬇️ 
-<br>Payment ⬇️ 
-<br>Order Confirmation ⬇️ 
-<br>Delivery Tracking ⬇️ 
-<br>Meal Delivered! ✨
-<br><br>
-
-**🧑‍🍳 CHEF FLOW**
-<br>Register ⬇️ 
-<br>Create Profile ⬇️ 
-<br>Add Menu ⬇️ 
-<br>Set Meal Slots ⬇️ 
-<br>Manage Orders ⬇️ 
-<br>Prepare Meal! 🥘
-<br><br>
-
-**🛵 DELIVERY PARTNER FLOW**
-<br>Register ⬇️ 
-<br>Receive Assigned Delivery ⬇️ 
-<br>Navigate to Pickup ⬇️ 
-<br>Deliver Meal ⬇️ 
-<br>Update Delivery Status! 🚀
+<table align="center">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <b>👤 CUSTOMER FLOW</b><br><br>
+      Register / Login with OTP<br>⬇️<br>
+      Browse Homemade Meals<br>⬇️<br>
+      Choose Chef<br>⬇️<br>
+      Select Meal / Subscription<br>⬇️<br>
+      Payment<br>⬇️<br>
+      Order Confirmation<br>⬇️<br>
+      Delivery Tracking<br>⬇️<br>
+      Meal Delivered! ✨
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>🧑‍🍳 CHEF FLOW</b><br><br>
+      Register<br>⬇️<br>
+      Create Profile<br>⬇️<br>
+      Add Menu<br>⬇️<br>
+      Set Meal Slots<br>⬇️<br>
+      Manage Orders<br>⬇️<br>
+      Prepare Meal! 🥘
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>🛵 DELIVERY FLOW</b><br><br>
+      Register<br>⬇️<br>
+      Receive Assigned Delivery<br>⬇️<br>
+      Navigate to Pickup<br>⬇️<br>
+      Deliver Meal<br>⬇️<br>
+      Update Delivery Status! 🚀
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -136,12 +142,6 @@ If you do not change it, the streak and stats will not load!
 ## 💰 Featured Project: SpendLens ✨
 
 > **Personal Finance Analyzer**
-
-<div align="center">
-  <a href="SPENDLENS_REPO_URL"><img src="https://img.shields.io/badge/Code-GitHub-FFb6c1?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Repo"/></a>
-</div>
-<br>
-
 **SpendLens** is a personal finance analysis tool that helps users understand spending patterns from bank statements and raw transaction data! 💸
 
 ### 🔍 Overview & My Role 🎀
@@ -230,13 +230,13 @@ If you do not change it, the streak and stats will not show your actual data.
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&text_color=d8b4e2&icon_color=FFB6C1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gitvaidehi19&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&text_color=d8b4e2&icon_color=FFB6C1" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=transparent&hide_border=true&ring=FF69B4&fire=FFB6C1&currStreakLabel=FF69B4&currStreakNum=d8b4e2&sideNums=d8b4e2&sideLabels=FF69B4&dates=d8b4e2" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitvaidehi19&theme=transparent&hide_border=true&ring=FF69B4&fire=FFB6C1&currStreakLabel=FF69B4&currStreakNum=d8b4e2&sideNums=d8b4e2&sideLabels=FF69B4&dates=d8b4e2" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&theme=transparent&hide_border=true&layout=compact&title_color=FF69B4&text_color=d8b4e2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitvaidehi19&theme=transparent&hide_border=true&layout=compact&title_color=FF69B4&text_color=d8b4e2" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -258,7 +258,7 @@ If you do not change it, the streak and stats will not show your actual data.
 
 <!-- REPLACE THE HREF LINKS WITH YOUR ACTUAL PROFILES/EMAILS -->
 <a href="LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-FFb6c1?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  <img src="https://img./badge/LinkedIn-FFb6c1?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
 </a>
 <a href="mailto:EMAIL_ADDRESS">
   <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
